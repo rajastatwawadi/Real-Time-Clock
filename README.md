@@ -1,7 +1,6 @@
 # Real Time Clock
 This project implements a Real-Time Clock (RTC) system using the 8051 microcontroller and the **MCP7940N** RTC IC. The system communicates over the **I2C protocol**, implemented **from scratch in Embedded C**, and displays the time and date on a **16x2 LCD**.
 
-![Project Screenshot](Results/20250203_180524.jpg)
 
 
 ### Features
